@@ -23,7 +23,7 @@ The **`AuthenticationManager`** is a central component in Spring Security respon
 
 1.In SecurityConfig
 
-<figure><img src="../.gitbook/assets/image (24).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (24).png" alt=""><figcaption></figcaption></figure>
 
 **What This Does**:
 
@@ -33,7 +33,7 @@ The **`AuthenticationManager`** is a central component in Spring Security respon
 
 2. In user service
 
-<figure><img src="../.gitbook/assets/image (25).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (25).png" alt=""><figcaption></figcaption></figure>
 
 **What This Does**:
 

@@ -6,7 +6,7 @@ Creating our own settings, we want to create our own filter chain
 
 2.Create SecurityConfig file
 
-<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
 
 **`@Configuration`**: Marks the class as a configuration class in Spring, which means it's used to define beans and configuration settings.
 

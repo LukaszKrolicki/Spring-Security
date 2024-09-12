@@ -1,6 +1,6 @@
 # Stateless
 
-<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
 
 When you configure **`sessionCreationPolicy(SessionCreationPolicy.STATELESS)`** in Spring Security, you are telling the application to **not use HTTP sessions** at all for storing security information (like the user's authentication state). Instead, each request must be **fully self-contained**, meaning it must include all the necessary information to authenticate and authorize the user.
 

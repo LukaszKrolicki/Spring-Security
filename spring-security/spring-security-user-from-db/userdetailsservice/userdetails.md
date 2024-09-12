@@ -2,7 +2,7 @@
 
 `UserPrincipal` class provides an implementation of the `UserDetails` interface, which is used by Spring Security to encapsulate user details during authentication.
 
-<figure><img src="../../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
 
 **Overridden Methods**:
 

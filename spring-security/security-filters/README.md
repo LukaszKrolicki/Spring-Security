@@ -27,5 +27,5 @@ Here’s a breakdown of some key Spring Security filters:
 8. **`LogoutFilter`**:
    * Manages the logout process by invalidating the session and clearing the `SecurityContext`.
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 

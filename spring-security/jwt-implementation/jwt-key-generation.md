@@ -1,6 +1,6 @@
 # JWT key Generation
 
-<figure><img src="../.gitbook/assets/image (27).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (27).png" alt=""><figcaption></figcaption></figure>
 
 #### **What the Code Does**
 
@@ -21,9 +21,9 @@
     * The token is **signed** using the secret key that was generated.
     * Finally, the JWT is **compact()**'d, which means it is encoded and returned as a compact string (the actual token).
 
-    <figure><img src="../.gitbook/assets/image (28).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (28).png" alt=""><figcaption></figcaption></figure>
 
     Now when we log in we receive JWT token, lets check jwt.io to see what this token contains
 
-    <figure><img src="../.gitbook/assets/image (29).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (29).png" alt=""><figcaption></figcaption></figure>
 

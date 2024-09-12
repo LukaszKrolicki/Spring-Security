@@ -1,6 +1,6 @@
 # Jwt filter
 
-<figure><img src="../../.gitbook/assets/image (30).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (30).png" alt=""><figcaption></figcaption></figure>
 
 * **Class Declaration**: The class `JwtFilter` extends `OncePerRequestFilter`, which means it is a filter that will be executed once for every HTTP request.
 * **JWT Token Extraction**: In the `doFilterInternal` method, the filter first checks the `Authorization` header in the incoming request. If the header is not `null` and starts with `"Bearer "`, it assumes the rest of the header is a JWT (token) and extracts the token by removing the "Bearer " part.

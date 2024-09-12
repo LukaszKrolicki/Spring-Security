@@ -2,7 +2,7 @@
 
 1. We must add filter before to our filter chain
 
-<figure><img src="../../.gitbook/assets/image (22).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (22).png" alt=""><figcaption></figcaption></figure>
 
 #### `.addFilterBefore(jwtFilter, UsernamePasswordAuthenticationFilter.class)`
 

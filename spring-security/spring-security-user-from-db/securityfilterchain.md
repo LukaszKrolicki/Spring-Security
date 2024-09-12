@@ -10,7 +10,7 @@ SecurityFilterChain:
   * **Using HTTP Basic Authentication**: `httpBasic(Customizer.withDefaults())`
   * **Configuring stateless session management**: `session.sessionCreationPolicy(SessionCreationPolicy.STATELESS)`
 
-<figure><img src="../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
 
 #### **Disabling CSRF Protection (`http.csrf(AbstractHttpConfigurer::disable)`)**
 

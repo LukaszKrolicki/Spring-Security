@@ -12,7 +12,7 @@ The `AuthenticationProvider` in Spring Security is part of the authentication me
   * The `AuthenticationManager`, in turn, uses the `authenticationProvider` bean to validate the user’s credentials.
   * The `authenticationProvider` bean provides the logic for checking the credentials against the database and returning an authentication result.
 
-<figure><img src="../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
 
 * **`DaoAuthenticationProvider`**:
   * **What it is**: A class provided by Spring Security that uses a **`UserDetailsService`** to retrieve user details and authenticate them.

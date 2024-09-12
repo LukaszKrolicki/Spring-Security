@@ -2,7 +2,7 @@
 
 Us`erDetailsService` interface, is used by Spring Security to retrieve user-specific data. It is responsible for loading user details from the database based on the username provided during authentication.
 
-<figure><img src="../../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
 
 **Implementing `loadUserByUsername`**:
 

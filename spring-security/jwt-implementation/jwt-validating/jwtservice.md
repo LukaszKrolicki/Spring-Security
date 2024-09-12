@@ -2,7 +2,7 @@
 
 Additional functions:
 
-<figure><img src="../../.gitbook/assets/image (32).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (32).png" alt=""><figcaption></figcaption></figure>
 
 #### 1. **`extractUserName(String token)`**
 

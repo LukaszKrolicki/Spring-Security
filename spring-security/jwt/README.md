@@ -2,7 +2,7 @@
 
 A **JWT (JSON Web Token)** is a compact, URL-safe token used for securely transmitting information between parties. It’s commonly used for authentication and authorization in web applications.
 
-<figure><img src="../.gitbook/assets/image (23).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (23).png" alt=""><figcaption></figcaption></figure>
 
 #### Structure of JWT:
 
